@@ -17,7 +17,7 @@ function App() {
     }, 1500);
 
     // Update page title
-    document.title = "Nitin Desai | Portfolio";
+    document.title = "Nitin | Portfolio";
 
     return () => clearTimeout(timer);
   }, []);
